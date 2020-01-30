@@ -1,0 +1,3 @@
+[submodule "Assignment/python"]
+	path = Assignment/python
+	url = git@github.com:bitxer/Digital-Crime-Analyzer.git
