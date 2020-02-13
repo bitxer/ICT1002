@@ -1,4 +1,4 @@
-# 3-1. Developing Your Own Math Module
+# 3-1: Developing Your Own Math Module
 ## Task Description
 Develop your own math module (myMath) including the following eight basic functions.
 
