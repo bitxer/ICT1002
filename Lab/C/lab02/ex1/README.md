@@ -1,4 +1,4 @@
-# Exercise 3: Reading Input and Performing Calculations
+# Exercise 1: Array Expressions
 ## Task Description
 Suppose that the following declarations and assignments have been made in a C program:
 ```
