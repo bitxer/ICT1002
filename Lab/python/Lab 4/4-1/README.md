@@ -1,4 +1,4 @@
-# 4-1: Pattern Searching
+# 4-1: Sum Calculator
 ## Task Description
 In this task, we need to design one recursive function to calculate the SUM value of one input number. 
 
