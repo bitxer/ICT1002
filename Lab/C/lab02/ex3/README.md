@@ -12,7 +12,7 @@ on  2
 the 3
 mat 3
 ```
-For an extra exercise, choose a secret “magic word” to be recognised by your program. If the sentence contains the magic word, add the text “You said the magic word!” at the end of the table.
+For an extra exercise, choose a secret "magic word" to be recognised by your program. If the sentence contains the magic word, add the text "You said the magic word!" at the end of the table.
 ## Hints
 1. Use `fgets(buffer, n, stdin)` to read a line of text that includes spaces, where buffer is the array into which you want to place the characters and n is the maximum number of characters to read.
 2. You can use the functions defined in `ctype.h` to test whether a character is a letter, a space, or a punctuation mark.
