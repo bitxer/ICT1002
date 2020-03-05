@@ -1,6 +1,6 @@
 ############################
 # Module: ICT1002          #
-# Lab Exercise 2-3         #
+# Lab Exercise 3-2         #
 # Done By: bitxer          #
 ############################
 
