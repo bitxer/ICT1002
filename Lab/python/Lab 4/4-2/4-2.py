@@ -1,3 +1,9 @@
+############################
+# Module: ICT1002          #
+# Language: Python2        #
+# Lab Exercise 4-2         #
+# Done By: bitxer          #
+############################
 import sys
 
 def digit(x, count=0):

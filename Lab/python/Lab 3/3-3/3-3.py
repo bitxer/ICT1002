@@ -1,5 +1,6 @@
 ############################
 # Module: ICT1002          #
+# Language: Python2        #
 # Lab Exercise 3-3         #
 # Done By: bitxer          #
 ############################
