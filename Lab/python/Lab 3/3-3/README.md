@@ -1,4 +1,4 @@
-# 3-2: Counting Letters
+# 3-3: Pattern Searching
 ## Task Description
 In this task you will write a program that reads two sequences of numbers. The first sequence of numbers is called candidate and the second sequence of numbers is called pattern. Your program will determine if the pattern is found entirely in the candidate. To be considered found entirely, all elements of pattern must be in the candidate sequence at consecutive positions. You have to output the number of founded patterns, or -1 if the pattern is not found in the candidate.
 
