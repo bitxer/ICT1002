@@ -1,7 +1,7 @@
 /*
  * Module: ICT1002
  * Language: C
- * Lab 2 exercise 1
+ * Lab 3 exercise 1
  * Done By: bitxer
  */
 #include <stdio.h>
