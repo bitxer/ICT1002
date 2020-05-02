@@ -1,2 +1,5 @@
 # ICT1002
-SIT ICT1002: Programming Fundementals Lab Exercises
+This repository contains the lab exercises for ICT1002: Programming Fundementals in SIT
+
+## Assignment
+The source code for the assignments can be found at the following links:
